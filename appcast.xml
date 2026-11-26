@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Bubble</title>
+    <link>https://raw.githubusercontent.com/Denis-Athletix/bubble-releases/main/appcast.xml</link>
+    <description>Most recent updates to Bubble</description>
+    <language>en</language>
+    <item>
+      <title>Version 0.1.0 (264)</title>
+      <pubDate>Thu, 26 Nov 2026 23:49:29 +0000</pubDate>
+      <sparkle:version>264</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p>First build with automatic updates
+</p>
+      ]]></description>
+      <enclosure url="https://github.com/Denis-Athletix/bubble-releases/releases/download/v0.1.0-264/Bubble-0.1.0-264.zip" length="36146252" type="application/octet-stream" sparkle:edSignature="ShRKZiIhn2x4mfAZieEZ82lLNaslOX+Wag8ozF1KnNARGwgp0lAjRHkxutImVDi6BVgvX9koGYqNcyFcXz0iDQ=="/>
+    </item>
+  </channel>
+</rss>
