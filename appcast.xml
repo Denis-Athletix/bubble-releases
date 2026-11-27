@@ -6,6 +6,28 @@
     <description>Most recent updates to Bubble</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.2 (322)</title>
+      <pubDate>Fri, 27 Nov 2026 04:06:24 +0000</pubDate>
+      <sparkle:version>322</sparkle:version>
+      <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>Bubble 0.1.2</h3>
+<ul>
+<li>Ask AI about a PDF, Word document, spreadsheet, or text attachment. You can turn off attachment reading in AI settings.</li>
+<li>Review changes after an AI rewrite, keep the original alongside a translation, or automatically translate mail from a sender. Compose templates can now include a subject.</li>
+<li>Hover over a day in the mail list for an AI recap, including travel and delivery details. Mark the day's mail as read and archive it with one undoable action.</li>
+<li>See one event when several calendars contain the same meeting. Choose calendar colors, control which calendars count as busy, refresh the calendar, and email guests from the event.</li>
+<li>Get a reminder two minutes before a meeting with a call link. Join or dismiss it without switching away from your work.</li>
+<li>Browse folders by account, expand nested IMAP folders, and sort by unread count. From the account rail, mark the inbox as read or archive it with undo.</li>
+<li>Open a task to edit notes, labels, priority, due date, and subtasks. Check off subtasks on the board and filter the Tasks widget.</li>
+<li>Open a contact to find drafts and browse email by month. Load older messages from the server or select a whole group for bulk actions.</li>
+<li>Set a sender name for each account or edit an IMAP account's server settings while keeping its local mail.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/Denis-Athletix/bubble-releases/releases/download/v0.1.2-322/Bubble-0.1.2-322.zip" length="38843802" type="application/octet-stream" sparkle:edSignature="vD9RaveDanLPkJc+dNRPO138/6iPTcuwrD8rOo3ZcTE3lkn3etsY5iGocbrdDWLgp3NL1N9I7FWwEHHY2aebCQ=="/>
+    </item>
+    <item>
       <title>Version 0.1.1 (302)</title>
       <pubDate>Fri, 27 Nov 2026 03:10:17 +0000</pubDate>
       <sparkle:version>302</sparkle:version>
