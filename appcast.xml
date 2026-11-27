@@ -6,6 +6,18 @@
     <description>Most recent updates to Bubble</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.0 (279)</title>
+      <pubDate>Fri, 27 Nov 2026 02:09:54 +0000</pubDate>
+      <sparkle:version>279</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p>New installs start without the demo account; removing the demo account clears all its data. Reset Bubble in Settings. Contact card roles, iCloud sign-in fixes, Dock badge fix, hover quick actions polish.
+</p>
+      ]]></description>
+      <enclosure url="https://github.com/Denis-Athletix/bubble-releases/releases/download/v0.1.0-279/Bubble-0.1.0-279.zip" length="36363927" type="application/octet-stream" sparkle:edSignature="TsKNPtNOUZkqirrl79gDDdOIQHaYh3wAEWG+IDysA0LxvjM5CylnmPB5DzKk4ITYzyLmbpp0TH2UGN+cCE23Ag=="/>
+    </item>
+    <item>
       <title>Version 0.1.0 (264)</title>
       <pubDate>Thu, 26 Nov 2026 23:49:29 +0000</pubDate>
       <sparkle:version>264</sparkle:version>
