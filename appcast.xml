@@ -6,6 +6,18 @@
     <description>Most recent updates to Bubble</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.0 (280)</title>
+      <pubDate>Fri, 27 Nov 2026 02:16:25 +0000</pubDate>
+      <sparkle:version>280</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p>The demo account is removed on launch even if it is your only account; Bubble then asks you to add an account.
+</p>
+      ]]></description>
+      <enclosure url="https://github.com/Denis-Athletix/bubble-releases/releases/download/v0.1.0-280/Bubble-0.1.0-280.zip" length="36364141" type="application/octet-stream" sparkle:edSignature="JLCwGEjCZEZ8jD3eHD1Vn5QroBu0Myodvqzp1HPUwnFdAMNVcSyrceorH7L7EaUPMWEKFPTIjKnUXp0ym4K2Cg=="/>
+    </item>
+    <item>
       <title>Version 0.1.0 (279)</title>
       <pubDate>Fri, 27 Nov 2026 02:09:54 +0000</pubDate>
       <sparkle:version>279</sparkle:version>
