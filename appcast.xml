@@ -6,6 +6,18 @@
     <description>Most recent updates to Bubble</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.0 (283)</title>
+      <pubDate>Fri, 27 Nov 2026 03:07:05 +0000</pubDate>
+      <sparkle:version>283</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p>Update card in the main window: new versions download in the background, then Restart and update. Real version number in Settings, working update toggles.
+</p>
+      ]]></description>
+      <enclosure url="https://github.com/Denis-Athletix/bubble-releases/releases/download/v0.1.0-283/Bubble-0.1.0-283.zip" length="36515862" type="application/octet-stream" sparkle:edSignature="Wd/16wPBJ1ZwtihngduniIpcgABpcZ+rKYqclaWcjD1vvKFKt2Ptvr9a1bQjZJ6ZSnZ4+qcS1t5c5Fpy/9oODA=="/>
+    </item>
+    <item>
       <title>Version 0.1.0 (280)</title>
       <pubDate>Fri, 27 Nov 2026 02:16:25 +0000</pubDate>
       <sparkle:version>280</sparkle:version>
