@@ -6,6 +6,24 @@
     <description>Most recent updates to Bubble</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.5 (362)</title>
+      <pubDate>Fri, 27 Nov 2026 23:21:03 +0000</pubDate>
+      <sparkle:version>362</sparkle:version>
+      <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>Bubble 0.1.5</h3>
+<ul>
+<li>Describe a topic in Settings &gt; Smart labels. Bubble can label matching incoming mail automatically and send less certain matches to Suggested labels for review.</li>
+<li>Review suggestions in the AI widget or Settings. Apply a label, dismiss it, or choose Always or Never for a sender. Bubble learns from corrections and pauses automatic labeling after repeated removals.</li>
+<li>Discover label ideas from the last 30 days of mail. You choose which labels to create and can apply them to the last 90 days, track progress, and undo the backfill.</li>
+<li>Look for the sparkle on labels applied by AI. Hover to see the confidence level.</li>
+<li>Settings sidebar items have more space between them, and clicking a selected item no longer adds an outer frame.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/Denis-Athletix/bubble-releases/releases/download/v0.1.5-362/Bubble-0.1.5-362.zip" length="40952990" type="application/octet-stream" sparkle:edSignature="msH5cgLRxZ4BU5dahXy2DSgg5RlyD1qjkLFse4ouvsNgf++w8ZBjxG1h66QvKcRSSIzfXN5ZFQz3XmTe3E7hBg=="/>
+    </item>
+    <item>
       <title>Version 0.1.4 (350)</title>
       <pubDate>Fri, 27 Nov 2026 05:56:36 +0000</pubDate>
       <sparkle:version>350</sparkle:version>
