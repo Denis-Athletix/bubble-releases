@@ -6,6 +6,26 @@
     <description>Most recent updates to Bubble</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.3 (336)</title>
+      <pubDate>Fri, 27 Nov 2026 05:08:17 +0000</pubDate>
+      <sparkle:version>336</sparkle:version>
+      <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>Bubble 0.1.3</h3>
+<ul>
+<li>Browse attachments in a thumbnail gallery. Copy, download, or zoom in on message images. Dark sender logos are easier to see in dark mode.</li>
+<li>Drag files into a draft to attach them or insert images into the text. Images over 5 MB become attachments.</li>
+<li>Move the widget panel to either side, resize it, or choose one inbox row per message in General settings.</li>
+<li>Press Cmd+K while composing to send, schedule around your calendar, insert a template or scheduling link, attach a file, or change sender.</li>
+<li>Bubble can return new spam to your inbox when you have previously emailed the sender from that account. You can turn this off in Settings.</li>
+<li>Copy a verification code or open a sign-in link from the banner when new mail arrives.</li>
+<li>Account avatars now show without provider badges in the sidebar. Settings sections no longer show Beta labels.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/Denis-Athletix/bubble-releases/releases/download/v0.1.3-336/Bubble-0.1.3-336.zip" length="39377102" type="application/octet-stream" sparkle:edSignature="k3s2tSiqBIJdBzXtEQCW7SKQSmlArAjZoy4ztGfroGt2UXHDvfig/ZRA9ZWtn0EmTVZPGYk6R0eCV6L9L7sWCA=="/>
+    </item>
+    <item>
       <title>Version 0.1.2 (322)</title>
       <pubDate>Fri, 27 Nov 2026 04:06:24 +0000</pubDate>
       <sparkle:version>322</sparkle:version>
