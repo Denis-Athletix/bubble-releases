@@ -6,6 +6,31 @@
     <description>Most recent updates to Bubble</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.1 (302)</title>
+      <pubDate>Fri, 27 Nov 2026 03:10:17 +0000</pubDate>
+      <sparkle:version>302</sparkle:version>
+      <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>Bubble 0.1.1</h3>
+<ul>
+<li>Filter mail by sender, subject, folder, date, or attachment. Save searches you use often and search older mail on the server.</li>
+<li>Use shortcuts on the conversation under the pointer. Press M to move it or L to find a label.</li>
+<li>Change a snooze time from the Snoozed list. Gmail and IMAP also move snoozed mail out of the inbox and return it when Bubble wakes it.</li>
+<li>Answer invitations from the inbox and review proposed meeting times in the conversation.</li>
+<li>Mail changes made offline stay visible and retry when the account reconnects. Sync status shows how many are waiting.</li>
+<li>Bubble asks before sending a new message without a subject and checks attachment sizes for your provider. Press Command-Z while the send bar is visible to restore the draft.</li>
+<li>Long conversations open with the ten newest messages. Load earlier messages as you scroll, or press Command-F to find text in the conversation.</li>
+<li>Scheduled update reminders appear in the main window. Bubble downloads updates in the background by default. Click <b>Restart and update</b> when the update is ready. Bubble also installs downloaded updates when you quit. <b>What's New</b> shows the release notes after you update.</li>
+<li>Opening a connected app from Calendar or Contacts now switches back to Mail to show it.</li>
+<li>Contact cards show every address in Roles.</li>
+<li>iCloud sign-in retries with the updated app-specific password and preserves the original error if sign-in still fails.</li>
+<li>Bubble updates the Dock and notifications badge counts and warns when macOS hides the badge.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/Denis-Athletix/bubble-releases/releases/download/v0.1.1-302/Bubble-0.1.1-302.zip" length="37592895" type="application/octet-stream" sparkle:edSignature="ZxKYCh7oLCB/cUVCyGrJcGsqWFNAdlmk+hr90+bWSqcKNEvVJa9IopVyHQJF4bP80Q9ER1BYgtkQu7u2jQS2Aw=="/>
+    </item>
+    <item>
       <title>Version 0.1.0 (283)</title>
       <pubDate>Fri, 27 Nov 2026 03:07:05 +0000</pubDate>
       <sparkle:version>283</sparkle:version>
