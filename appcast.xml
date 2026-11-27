@@ -6,6 +6,24 @@
     <description>Most recent updates to Bubble</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.4 (350)</title>
+      <pubDate>Fri, 27 Nov 2026 05:56:36 +0000</pubDate>
+      <sparkle:version>350</sparkle:version>
+      <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>Bubble 0.1.4</h3>
+<ul>
+<li>Open your inbox sooner. Switching senders clears the previous list immediately, and Archive, Sent, and Promotions show the first page while the rest loads.</li>
+<li>Open Settings in a drawer above your workspace. Icons now distinguish the Mail, Calendar, and Contacts tabs.</li>
+<li>Create calendar events in a redesigned editor with dates, guests, reminders, and options supported by your calendar.</li>
+<li>Copy a new verification code from the panel below the camera notch. You can also open the email or dismiss the panel. On other displays, the panel appears below the menu bar.</li>
+<li>Review messages awaiting a reply, travel details, and deliveries in AI Recap. Mark the day's mail as read or read and archived, with Undo.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/Denis-Athletix/bubble-releases/releases/download/v0.1.4-350/Bubble-0.1.4-350.zip" length="40246258" type="application/octet-stream" sparkle:edSignature="177T+SOwkD+KHJXngWUNvgXvOaH1FQzwoH5/mjKO0By8jN5PYMo5r9rBPEs5wDyYg5s9HkM8/7+IOOlvlvrgBw=="/>
+    </item>
+    <item>
       <title>Version 0.1.3 (336)</title>
       <pubDate>Fri, 27 Nov 2026 05:08:17 +0000</pubDate>
       <sparkle:version>336</sparkle:version>
