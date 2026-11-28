@@ -6,6 +6,23 @@
     <description>Most recent updates to Bubble</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.8 (375)</title>
+      <pubDate>Sat, 28 Nov 2026 05:36:16 +0000</pubDate>
+      <sparkle:version>375</sparkle:version>
+      <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>Bubble 0.1.8</h3>
+<ul>
+<li>Ask AI has a clearer active state, a larger Send button, and one New chat control whether chat history is open or collapsed.</li>
+<li>Compose, inline replies and thread summaries use a compact +AI button. Suggested reply actions use lavender buttons.</li>
+<li>Switch an open conversation between Chat bubbles and Standard email cards. Bubble remembers your choice and keeps the selected message in view.</li>
+<li>Open mail without waiting for the full conversation to load. Available text stays visible while HTML renders, and you can retry a failed load without closing the reader.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/Denis-Athletix/bubble-releases/releases/download/v0.1.8-375/Bubble-0.1.8-375.zip" length="41595587" type="application/octet-stream" sparkle:edSignature="yD0mbqKNPX2wtHJ38p4/oA2DZ1C+OeZ594Ob8nEmLIwr7IOgFK7Cj6Rv9tzR4t6LGNiWjXqW8vufKxwifzAYAg=="/>
+    </item>
+    <item>
       <title>Version 0.1.5 (362)</title>
       <pubDate>Fri, 27 Nov 2026 23:21:03 +0000</pubDate>
       <sparkle:version>362</sparkle:version>
