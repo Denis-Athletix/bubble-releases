@@ -6,6 +6,22 @@
     <description>Most recent updates to Bubble</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.10 (407)</title>
+      <pubDate>Sat, 28 Nov 2026 09:01:03 +0000</pubDate>
+      <sparkle:version>407</sparkle:version>
+      <sparkle:shortVersionString>0.1.10</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>Bubble 0.1.10</h3>
+<ul>
+<li>Search Todo tasks and notes, then filter the board by account, label, or priority.</li>
+<li>Collapse columns and update dates, labels, priorities, and timestamped notes directly from task cards.</li>
+<li>Edit tasks and subtasks in a centered window. Dragging a card in a filtered board preserves the order of hidden tasks.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/Denis-Athletix/bubble-releases/releases/download/v0.1.10-407/Bubble-0.1.10-407.zip" length="43138909" type="application/octet-stream" sparkle:edSignature="mjBxxJ/A/mrC/RX5J42KQcvag9r7JGhJn4EUeYfX90Pe52fkZNF1Ma2vJ0fott8ejYOiigrOgwHBkckEebI2DQ=="/>
+    </item>
+    <item>
       <title>Version 0.1.9 (406)</title>
       <pubDate>Sat, 28 Nov 2026 07:47:52 +0000</pubDate>
       <sparkle:version>406</sparkle:version>
