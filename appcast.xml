@@ -6,6 +6,27 @@
     <description>Most recent updates to Bubble</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.9 (406)</title>
+      <pubDate>Sat, 28 Nov 2026 07:47:52 +0000</pubDate>
+      <sparkle:version>406</sparkle:version>
+      <sparkle:shortVersionString>0.1.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>Bubble 0.1.9</h3>
+<ul>
+<li>Create a calendar draft from a message or describe an event in your own words. Review the details before saving. Search across calendars and open the email linked to an event.</li>
+<li>Correct grammar in a draft, reply or selection and review the changes. Translate mail with installed language packs on your Mac or choose your AI provider.</li>
+<li>Save searches as smart folders across accounts. Combine filters for unread mail, attachments, replies, follow-ups and VIPs.</li>
+<li>Adjust text size, unread indicators and when opening a conversation marks it as read. Lock Bubble after time away or when your Mac sleeps.</li>
+<li>Read and reply to new personal mail from the top of the screen. Enable hold-to-dictate in compose, inline replies and Ask AI.</li>
+<li>Share files, images, links and text to a new draft from other Mac apps.</li>
+<li>Inspect a message’s original source or forward it as an email attachment. Reuse a signature across accounts, include recipients in templates, and send and archive a reply together.</li>
+<li>Connect a local MCP client to propose a calendar event for review in Bubble.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/Denis-Athletix/bubble-releases/releases/download/v0.1.9-406/Bubble-0.1.9-406.zip" length="42861384" type="application/octet-stream" sparkle:edSignature="XiadFo/7hSYtuw5WCWmNcVfkjL42OmxlQGZfDa5fT6qGWm8d9lLzs22w7aX8ak7IVYk330IUTzjjChGhFkroDg=="/>
+    </item>
+    <item>
       <title>Version 0.1.8 (375)</title>
       <pubDate>Sat, 28 Nov 2026 05:36:16 +0000</pubDate>
       <sparkle:version>375</sparkle:version>
